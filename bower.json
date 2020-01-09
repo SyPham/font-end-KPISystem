@@ -1,0 +1,16 @@
+{
+  "name": "font-end-KPISystem",
+  "version": "1.0.1",
+  "authors": [
+    "Henry Pham <pahmtiensy8696@gmail.com>"
+  ],
+  "description": "Plugin, image",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/SyPham/font-end-KPISystem.git",
+  "ignore": [
+    "README.md"
+  ]
